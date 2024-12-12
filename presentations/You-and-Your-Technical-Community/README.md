@@ -8,7 +8,7 @@ In today's presentation, I will share with you how others have helped advance my
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9070wCTv3jL1ScTg?e=2uEOyp)
 
-#@ Presented at
+# Presented at
 
 | Date  | Event    | Location  |
 | ---------- | ------------------------------------------ | ---------------- |
