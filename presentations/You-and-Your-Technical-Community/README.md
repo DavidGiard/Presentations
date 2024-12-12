@@ -11,13 +11,13 @@ In today's presentation, I will share with you how others have helped advance my
 #@ Presented at
 
 | Date  | Event    | Location  |
-| ---------- | -------------------------------- | --------------- |
-| 2/21/2015  | Indiana Tech ITECS conference    | Ft. Wayne, IN  |
-| 5/12/2017  | Convergence                      | Detroit, MI    |
-| 11/18/2017 | Great Lakes Area .NET User Group | Southfield, MI |
-| 7/14/2022  | Nebraska.Code()                  | Lincoln, NE     |
-| 3/22/2024  | Michigan Technology Conference   | Pontiac, MI     |
-| Aug 3 2024 | Beer City Code                   | Grand Rapids, MI  |
+| ---------- | ------------------------------------------ | ---------------- |
+| 2/21/2015  | Indiana Tech ITECS conference (keynote)    | Ft. Wayne, IN    |
+| 5/12/2017  | Convergence (keynote)                      | Detroit, MI      |
+| 11/18/2017 | Great Lakes Area .NET User Group           | Southfield, MI   |
+| 7/14/2022  | Nebraska.Code() (keynote)                  | Lincoln, NE      |
+| 3/22/2024  | Michigan Technology Conference (keynote)   | Pontiac, MI      |
+| Aug 3 2024 | Beer City Code                             | Grand Rapids, MI |
 
 ## Feedback
 
