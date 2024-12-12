@@ -1,4 +1,4 @@
-# Presentation and Slides
+# David Giard Presentations
 
 ## Overview
 
@@ -30,6 +30,8 @@ I am available to deliver the presentations below. Click on a title to view a de
 ## Draft Presentations
 
 These are new presentations that are not yet complete. Contact me if you are interested. It may be the catalyst I need to finish them.
+
+(Coming soon)
 
 ## Deprecated Presentations
 
