@@ -12,12 +12,12 @@ In this session, you will learn how to create, test, and deploy Azure functions;
 
 ## Presented at
 
-| Date       | Event                     | Location          |
-| ---------- | ------------------------- | ----------------- |
-| 5/11/2019  | Chicago Code Camp         | Chicago, IL       |
-| 5/24/2019  | DevSum                    | Stockholm, Sweden |
-| 7/18/2019  | Indy Software Artisans    | Carmel, IN        |
-| 7/22/2019  | Chicago Cloud Conference  | Chicago, IL       |
-| 8/15/2019  | Chicago .NET User Group   | Downers Grove, IL |
-| 10/10/2019 | Las Vegas .NET User Group | Las Vegas, NV     |
-| 11/18/2019 | Swift Kick Show           | Online            |
+| Date        | Event                     | Location          |
+| ----------- | ------------------------- | ----------------- |
+| May 11 2019 | Chicago Code Camp         | Chicago, IL       |
+| May 24 2019 | DevSum                    | Stockholm, Sweden |
+| Jul 18 2019 | Indy Software Artisans    | Carmel, IN        |
+| Jul 22 2019 | Chicago Cloud Conference  | Chicago, IL       |
+| Aug 15 2019 | Chicago .NET User Group   | Downers Grove, IL |
+| Oct 10 2019 | Las Vegas .NET User Group | Las Vegas, NV     |
+| Nov 18 2019 | Swift Kick Show           | Online            |

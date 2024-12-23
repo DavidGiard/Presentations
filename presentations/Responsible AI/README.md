@@ -14,7 +14,7 @@ In this session, we will address the challenges inherent in AI and how you can a
 
 | Date | Event Name                                      | Location                |
 | ---------------- | ----------------------------------------------- | ----------------------- |
-| Apr 16, 2024        | AI Camp                          | Chicago, IL |
+| Apr 16 2024        | AI Camp                          | Chicago, IL |
 
 ## Feedback
 

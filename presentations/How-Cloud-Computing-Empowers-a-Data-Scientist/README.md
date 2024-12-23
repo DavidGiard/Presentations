@@ -11,3 +11,14 @@ In this session, you will learn how the cloud has impacted data science, the mos
 ## Slides
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9xXBfKU8keaqDCmA?e=hyrz7A)
+
+## Presented at
+
+| Date        | Event                          | Location          |
+| ----------- | ------------------------------ | ----------------- |
+| Apr 06 2018 | Duke University | Durham, NC |
+| May 02 2018 | University of Toronto | Toronto, ON |
+| May 19 2018 | Chicago Data Science Conference | Chicago, IL |
+| Jun 07 2018 | IT Camp | Cluj-Napoca, Romania |
+| Mar 23 2019 | SQL Saturday | Lisle, IL |
+| Aug 08 2019 | PASS Cloud Virtual Group | Online |

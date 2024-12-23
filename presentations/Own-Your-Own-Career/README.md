@@ -10,11 +10,11 @@ I have witnessed or committed many mistakes during my decades as a Software Engi
 
 ## Presented at
 
-| Date       | Event                 | Location              |
-| ---------- | --------------------- | --------------------- |
-| 1/9/2014   | CodeMash              | Sandusky, OH         |
-| 10/9/2015  | DevSpace              | Huntsville, AL       |
-| 10/15/2015 | Purdue University     | West Lafayette, IN   |
-| 11/13/2015 | St. Louis Day of .NET | St. Charles, MO      |
-| 6/2/2017   | Music City Code       | Nashville, TN        |
-| 6/8/2018   | IT Camp               | Cluj-Napoca, Romania |
+| Date       | Event                  | Location             |
+| ---------- | ---------------------- | -------------------- |
+| Jan 9 2014 | CodeMash               | Sandusky, OH         |
+| Oct 9 2015  | DevSpace              | Huntsville, AL       |
+| Oct 15 2015 | Purdue University     | West Lafayette, IN   |
+| Nov 13 2015 | St. Louis Day of .NET | St. Charles, MO      |
+| Jun 2 2017  | Music City Code       | Nashville, TN        |
+| Jun 8 2018  | IT Camp               | Cluj-Napoca, Romania |
