@@ -22,7 +22,7 @@ In this session, I will discuss the importance of Code Reviews and show some way
 | Apr 25 2023 | Tulsa .NET User Group          | Online            |
 | Jan 12 2024 | CodeMash                       | Sandusky, OH      |
 | Mar 22 2024 | Michigan Technology Conference | Pontiac, MI       |
-| Apr 25 2024 | Pittsburgh .NET User Group     | Online            |
+| Apr 17 2024 | Pittsburgh .NET User Group     | Online            |
 | Aug 3 2024  | Beer City Code                 | Grand Rapids, MI  |
 
 ## Feedback

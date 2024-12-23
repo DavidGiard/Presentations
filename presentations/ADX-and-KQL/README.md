@@ -13,8 +13,8 @@ In this session, I will show you when, where, and how to use ADX and how to use 
 
 | Date      | Event                                                      | Location    |
 | --------- | ---------------------------------------------------------- | ----------- |
-| 2/23/2022 | Southeast Valley .NET User Group                           | Phoenix, AZ |
-| 3/2/2022  | Code Camp Romania - The One with Architecture & Design 2022 | Online      |
-| 6/20/2022 | CSE Data Champions Roundtable                              | Online      |
-| 7/12/2023 | Cleveland Azure User Group                                 | Online      |
-| 9/18/2023 | Memphis Python User Group                                  | Online      |
+| Feb 23 2022 | Southeast Valley .NET User Group                           | Phoenix, AZ |
+| Mar 2 2022  | Code Camp Romania - The One with Architecture & Design 2022 | Online      |
+| Jun 20 2022 | CSE Data Champions Roundtable                              | Online      |
+| Jul 12 2023 | Cleveland Azure User Group                                 | Online      |
+| Sep 18 2023 | Memphis Python User Group                                  | Online      |

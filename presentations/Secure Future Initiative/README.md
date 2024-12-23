@@ -12,3 +12,11 @@ Highlights of the session include:
 - Secure Future Initiative: Learn about Microsoft’s strategic investments in security, designed to stay ahead of evolving threats and secure AI workloads.
 
 This session promises to equip attendees with actionable strategies and innovative tools to fortify their cybersecurity posture in an increasingly perilous digital age. Whether you are a cybersecurity professional, IT manager, or executive, this presentation will offer invaluable insights to help you navigate and secure the complex threat landscape.
+
+## Presented at
+
+| Date        | Event Name                                                    | Location    |
+| ----------- | ------------------------------------------------------------- | ----------- |
+| Aug 22 2024 | Quest Cybersecurity Summit | Downers Grove, IL |
+| Sep 12 2024 | Quest Cybersecurity Summit | Atlanta, GA |
+| Jan 16 2024 | CodeMash | Sandusky, OH |
