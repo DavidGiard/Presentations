@@ -13,6 +13,10 @@ Highlights of the session include:
 
 This session promises to equip attendees with actionable strategies and innovative tools to fortify their cybersecurity posture in an increasingly perilous digital age. Whether you are a cybersecurity professional, IT manager, or executive, this presentation will offer invaluable insights to help you navigate and secure the complex threat landscape.
 
+## Slides
+
+[Slides](https://1drv.ms/p/c/7048ec40c0ac24c1/EWYlzAkql59EpUDbZi0GaNQBbjK7d2RDJnN43GOHuHZ7eQ?e=r73yzd)
+
 ## Presented at
 
 | Date        | Event Name                                                    | Location    |
