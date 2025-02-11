@@ -24,11 +24,9 @@
 
 Open Excel.
 
-Sample files are in 
-https://microsoft-my.sharepoint.com/personal/dgiard_microsoft_com/Documents/Demos/CopilotExcel/
-(locally at C:\Users\dgiard\OneDrive - Microsoft\Demos\CopilotExcel)
+Sample files are in the [Files-For-Demos](Files-For-Demos/) folder
 
-Open files:
+Save the sample files to OneDrive, Set Autosave=On, and open files:
 - FoodInventory.xlsx
 - FIFA.xlsx
 
