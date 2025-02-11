@@ -4,11 +4,12 @@
 
 1. Open Word
 2. In Copilot windows (Home | Copilot, if not visible), enter:
-"Write a 5-paragraph article about Artificial Intelligence Tools in Azure'
-"Shorten this article to 3 paragraphs"
-"Rewrite for a fifth grade level"
-"Translate to German"
-"Create a PowerPoint presentation on this topic"
+
+- "Write a 5-paragraph article about Artificial Intelligence Tools in Azure'
+- "Shorten this article to 3 paragraphs"
+- "Rewrite for a fifth grade level"
+- "Translate to German"
+- "Create a PowerPoint presentation on this topic"
 
 ## PowerPoint
 
