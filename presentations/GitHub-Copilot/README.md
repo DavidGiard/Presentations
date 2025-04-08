@@ -4,4 +4,12 @@ GitHub Copilot acts as a virtual Pair Programming assistant - providing you with
 
 In this session, you will learn how to use GitHub Copilot to increase the velocity of your software development.
 
+## Presented at
+
+| Date      | Event Name                                                    | Location    |
+| --------- | ------------------------------------------------------------- | ----------- |
+| Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
+
+
 [Slides](https://1drv.ms/p/c/7048ec40c0ac24c1/EYDqjxhknNtHvptRYhST7m0B271ecXnxJ_QK2W5T0k8HRw?e=Zd1nVR)
+

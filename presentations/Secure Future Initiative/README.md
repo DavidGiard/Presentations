@@ -24,3 +24,4 @@ This session promises to equip attendees with actionable strategies and innovati
 | Aug 22 2024 | Quest Cybersecurity Summit | Downers Grove, IL |
 | Sep 12 2024 | Quest Cybersecurity Summit | Atlanta, GA |
 | Jan 16 2024 | CodeMash | Sandusky, OH |
+| Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
