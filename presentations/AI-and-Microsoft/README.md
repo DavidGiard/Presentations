@@ -22,7 +22,7 @@ I will show you the power of tools like Azure OpenAI, Azure AI Search, AI Servic
 | Apr 19 2024  | Global Azure | Chicago, IL |
 | Jul 18 2024 | Louisville .NET User Group | Online |
 | Aug 14 2024 | Azure Cleveland User Group | Online |
-| Sep 26 2024 | Tulsa .NET User Group | Onlie |
+| Sep 26 2024 | Tulsa .NET User Group | Online |
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
 
 ## Feedback
