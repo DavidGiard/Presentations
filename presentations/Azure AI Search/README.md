@@ -1,4 +1,4 @@
-# Mastering Intelligent Search with Azure AI
+# Mastering Intelligent Search with Azure AI Search
 
 Azure AI Search is a cloud service from Microsoft that allows you to search structured and unstructured data and documents by content, metadata, keywords, image information, and other properties. Using AI Search, users can submit their search criteria utilizing natural language.
 
