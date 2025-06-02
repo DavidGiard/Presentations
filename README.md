@@ -15,7 +15,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
 - [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
-- [Mastering Intelligent Search with Azure AI](./presentations/Azure%20AI%20Search)
+- [Mastering Intelligent Search with Azure AI Search](./presentations/Azure%20AI%20Search)
 - [With Great Power Comes Great Responsibility: The Challenges of Responsible AI](./presentations/Responsible%20AI)
 - [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
