@@ -25,3 +25,4 @@ This session promises to equip attendees with actionable strategies and innovati
 | Sep 12 2024 | Quest Cybersecurity Summit | Atlanta, GA |
 | Jan 16 2024 | CodeMash | Sandusky, OH |
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
+| Aug 14 2025 | KCDC | Kansas City, MO |
