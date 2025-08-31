@@ -2,9 +2,9 @@
 
 ## Abstract
 
-Artificial Intelligence (AI) is advancing at an impressive pace and providing numerous benefits to society. While the benefits of AI are extensive, it is crucial to acknowledge and navigate potential challenges that may pose risks to individuals and society. It is important to act ethically and responsibly when creating and using AI solutions in order to protect those who may be adversely affected.
+Artificial Intelligence (AI) is advancing at an impressive pace and providing numerous benefits to society. While the benefits of AI are extensive, many potential challenges may pose risks to individuals and society. To protect those who may be adversely affected, it is important to act ethically and responsibly when creating and using AI solutions.
 
-In this session, we will address the challenges inherent in AI and how you can address those challenges. We will cover how to address concerns about privacy, safety, inclusiveness, fairnness, transparency, and accountability.
+In this session, we will discuss the challenges inherent in using AI and how you can address those challenges. We will cover concerns about privacy, safety, inclusiveness, fairnness, transparency, and accountability, and what you can do to mitigate these issues.
 
 ## Slides
 
