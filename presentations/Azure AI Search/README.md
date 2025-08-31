@@ -7,3 +7,9 @@ In this session, you will learn how to configure this service to index documents
 ## Slides
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9lQxtQiUvbsyM_tA?e=1HnOId)
+
+## Presented at
+
+| Date      | Event Name                                                    | Location    |
+| --------- | ------------------------------------------------------------- | ----------- |
+| Jun 5 2025 | Chicago Cloud Computing User Group | Chicago, IL |
