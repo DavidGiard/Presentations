@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentations", "presentations", "{5DFFB8CD-BD94-C63B-DAA0-CF88A9E334CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub-Copilot", "GitHub-Copilot", "{4208ECC4-1A3B-277C-91BB-73B5D2786D1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demos", "demos", "{E83335AB-F551-35C5-5D2C-8D908B440704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowStandards", "presentations\GitHub-Copilot\demos\FollowStandards\FollowStandards.csproj", "{590870E4-D48D-A40F-3A72-CA820E73A8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590870E4-D48D-A40F-3A72-CA820E73A8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590870E4-D48D-A40F-3A72-CA820E73A8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590870E4-D48D-A40F-3A72-CA820E73A8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590870E4-D48D-A40F-3A72-CA820E73A8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4208ECC4-1A3B-277C-91BB-73B5D2786D1C} = {5DFFB8CD-BD94-C63B-DAA0-CF88A9E334CE}
+		{E83335AB-F551-35C5-5D2C-8D908B440704} = {4208ECC4-1A3B-277C-91BB-73B5D2786D1C}
+		{590870E4-D48D-A40F-3A72-CA820E73A8A9} = {E83335AB-F551-35C5-5D2C-8D908B440704}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20354D5-2C84-418F-BA68-3D2A4BB50E02}
+	EndGlobalSection
+EndGlobal

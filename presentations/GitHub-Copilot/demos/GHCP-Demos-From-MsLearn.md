@@ -181,8 +181,93 @@ applyTo: "public/*.css"
 - Ensure accessibility with proper contrast and focus states
 - Ensure buttons have adequate touch targets (44px minimum)
 
----
 Chat | Agent or Edit Mode
+---
 Create a new view to display FAQs
 ```
 
+##  Integrate MCP with Copilot
+
+### Step 1: Introduction to MCP and environment setup
+
+Define Model Context Protocol (MCP)
+"USB-C for AI" - universal connector for AI apps (e.g., GitHub Copilot) to interact with services.
+In this demo, we interact with an existing MPC server running on GitHub
+
+"Extensions" tab
+	Search for "GitHub Copilot" and "Python"
+
+Run app
+
+Create ./vscode/msp.json
+
+```
+{
+  "servers": {
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
+```
+
+Click [Start] inside mcp.json file
+
+GitHub Copilot Chat
+
+- Select Agent Mode
+- Click "tools" icon in GHCP Chat window
+	- Show all capabilities are checked
+
+### Step 2: Agent Mode and an MCP Server for GitHub
+
+Copilot Chat
+Agent Mode
+
+```
+Search for any other repositories for organizing extra curricular activities
+```
+
+```
+Please look at the code for the 3rd option and give me a detailed description of the features.
+```
+
+```
+Please compare these features to our project. Which would be new?
+```
+
+```
+I like it. Let's create issues for these in my repository.
+```
+
+### Step 3: Solve issues with Agent Mode and GitHub MCP Server
+
+```
+How many open issues are there on my repository?
+```
+
+```
+Oh no. That's too many for me! Please get the list of issues,
+review the descriptions and comments, and pick the top 3 most important.
+```
+
+```
+#codebase Let's do the first one. Follow these steps:
+1. Checkout a new local branch for making our changes.
+2. Make the changes then confirm with me that they look correct.
+3. Push the changes and start a pull request.
+```
+
+Source Control tab
+- Add files
+- Commit
+- Push
+- Create Pull Request
+
+### Step 4: Validating AI-generated code
+
+```
+Add a closing comment to the issue we just finished. Provide a 1 sentence description
+of the implemented solution and thank the commenters for their ideas and feedback.
+```

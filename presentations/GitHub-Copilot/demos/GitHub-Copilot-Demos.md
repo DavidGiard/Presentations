@@ -84,7 +84,7 @@ Describe "Azure Resource Group Tests" {
 
 ## C-Sharp
 
-1. Copy files from [here](https://github.com/gh-msft-innersource/CopilotPlayground/tree/main/FollowStandards)
+1. Copy files from [here](./FollowStandards/)
 2. Close all files in editor
 3. No Hints
    1. Open StoreProxy.cs
