@@ -10,6 +10,7 @@ In most cases, the slides are far more valuable within the context of a presenta
 
 I am available to deliver the presentations below. Click on a title to view a detailed description and the associated slide deck.
 
+- [Automating User Interface Tests with Playwright](./presentations/Playwright/)
 - [Effective Data Visualization](./presentations/Data-Visualization)
 - [You and Your Technical Community](./presentations/You-and-Your-Technical-Community)
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
