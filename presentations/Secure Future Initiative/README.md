@@ -26,4 +26,4 @@ This session promises to equip attendees with actionable strategies and innovati
 | Jan 16 2024 | CodeMash | Sandusky, OH |
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
 | Aug 14 2025 | KCDC | Kansas City, MO |
-| Oct 8 2025 | DevIntersections | Orlando, FL |
+| Oct 9 2025 | DevIntersections | Orlando, FL |

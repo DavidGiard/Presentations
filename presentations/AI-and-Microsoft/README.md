@@ -17,13 +17,18 @@ I will show you the power of tools like Azure OpenAI, Azure AI Search, AI Servic
 | Jan 18 2024 | Micosoft / Thoughtworks Technology and Digital Transformation Round Table | Online |
 | Feb 15 2024 | Unleashing Azure AI Search and Copilot, presented by Insight and RightPoint | Chicago, IL |
 | Feb 21 2024 | GOTO/CJUG/Kotlin Group                                        | Chicago, IL |
-| Mar 12 2024 | ElasticON                                                     | Chicago, IL |
+| Mar 12 2024 | ElasticON                                                        | Chicago, IL |
 | Apr 2 2024  | Illinois Institute of Technology                              | Chicago, IL |
 | Apr 19 2024  | Global Azure | Chicago, IL |
 | Jul 18 2024 | Louisville .NET User Group | Online |
 | Aug 14 2024 | Azure Cleveland User Group | Online |
 | Sep 26 2024 | Tulsa .NET User Group | Online |
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
+| Aug 7 2024  | Cleveland Azure User Group | Online |
+| Sep 26 2024 | Tulsa .NET User Group | Online |
+| Nov 21 2024 | INFORMS Analytic Conference | DePaul University, Chicago, IL |
+| Apr 19 2025 | SHPE’s spring conference | Northwestern University, Evanston, IL |
+| Jun 4 2025  | Pittsburgh .NET Uer Group | Online |
 
 ## Feedback
 

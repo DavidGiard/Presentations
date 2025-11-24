@@ -24,6 +24,9 @@ In this session, I will discuss the importance of Code Reviews and show some way
 | Mar 22 2024 | Michigan Technology Conference | Pontiac, MI       |
 | Apr 17 2024 | Pittsburgh .NET User Group     | Online            |
 | Aug 3 2024  | Beer City Code                 | Grand Rapids, MI  |
+| Jun 25 2025 | Cleveland .NET User Group      | Detroit, MI  |
+| Oct 9 2025  | Cybersecurity Intersection     | Orlando, FL  |
+| Nov 22 2025 | Michigan DevFest               | Detroit, MI  |
 
 ## Feedback
 
