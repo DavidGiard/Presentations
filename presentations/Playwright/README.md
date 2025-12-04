@@ -2,15 +2,16 @@
 
 ## Abstract
 
-Testing a user interface is an important part of the development life cycle. However this testing is often done manually, which is expensive, time-consuming, and often inconsistent.
+Testing a user interface is an important part of the development life cycle. However this testing is often done manually, which is expensive, time-consuming, and often inconsistent. Automating this process can make UI testing far more effective and efficient.
 
 Azure Playwright is an open source node.js project that provides a way to automate user interface testing.
 
-In this presentation, you will learn:
+By the end of this session, you’ll know how to:
 
-- how to create automated UI tests via code or screeen recording
-- how to run UI tests locally and in the cloud
-- how to incorporate UI tests into your CI/CD pipelines
+- Automate repetitive coding tasks with Playwright
+- Record user actions and use the rich object model to automate your tests
+- Integrate Copilot into your CI/CD pipeline
+- Reduce test development time.
 
 ## Slides
 
