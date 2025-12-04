@@ -14,7 +14,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Effective Data Visualization](./presentations/Data-Visualization)
 - [You and Your Technical Community](./presentations/You-and-Your-Technical-Community)
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
-- [Create a Chatbot Without Writing Any Code](./presentations/Create-a-Chatbot-Without-Writing-Code/)
+- [Create an AI Agent Without Writing Any Code](./presentations/Create-an-AI-Agent-Without-Writing-Code/)
 - [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
 - [Mastering Intelligent Search with Azure AI Search](./presentations/Azure%20AI%20Search)

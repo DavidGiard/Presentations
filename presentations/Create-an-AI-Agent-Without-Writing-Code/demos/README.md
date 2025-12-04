@@ -1,6 +1,33 @@
 # Demos
 
-## Setup
+1. SharePoint Agent
+1. Copilot Studio
+
+## SharePoint Agent
+
+Show Bult-in agent
+	Click [Summarize]
+
+Create New Agent
+
+	This library contains reviews of the arts.
+	Documents in the "Books" folder contains reviews of books.
+	Documents in the "Concerts" folder contains reviews of concerts.
+	Documents in the "Theater" folder contains reviews of plays.
+	Answer questions from the files in these folders.
+	Respond in a formal tone. Call everyone "Sir" or "Ma'am"
+
+Delete Chat History
+
+Edit Agent
+
+	Respond in a friendly tone. Call everyone "Pal" or "Buddy" or make up a silly nickname
+
+Share Link
+
+## Copilot Studio
+
+### Setup
 
 Create the chatbot in advance with the document uploaded. Document indexing takes a few minutes.
 
