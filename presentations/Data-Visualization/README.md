@@ -83,4 +83,3 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Jan 30 2025 | NDC London                                      | London, UK             |
 | Aug 14 2025 | KCDC                                            | Kansas City, MO        |
 | Aug 21 2025 | Fabric User Group                               | Online        |
-| Aug 21 2025 | Fabric User Group                               | Online        |
