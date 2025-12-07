@@ -6,7 +6,7 @@ I have witnessed or committed many mistakes during my decades as a Software Engi
 
 I'll begin with ways to take ownership of your career and responsibility for achieving your goals; then, I will teach key lessons on working with your customer in a way that benefits you both.
 
-This sessiono cotains essential information for developers at any career stage - from new grads navigating their first role to senior engineers planning their next decade.
+This sessioon cotains essential information for developers at any career stage - from new grads navigating their first role to senior engineers planning their next decade.
 
 ## Slides
 
