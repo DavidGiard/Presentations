@@ -1,8 +1,10 @@
 # GitHub Copilot: Your AI Pair Programmer
 
-GitHub Copilot acts as a virtual Pair Programming assistant - providing you with boilerplate code, write tests, document code, and increase developer productivity. Developers can take advantage of Large Language Models and interact with Copilot using natural language.
+Developers spend 70% of their time reading and understanding code, not writing it. What if an AI assistant could cut that time in half while helping you write better code faster?"
 
-In this session, you will learn how to use GitHub Copilot to increase the velocity of your software development.
+GitHub Copilot acts as a virtual Pair Programming assistant. It provides the ability to write code and automated tests; to fix problems and refactor code; and to understand, review, explain, and document code. This can all be done with your development environment and within the context of the project on which you are working. A variety of large Language Models gives developers the ability to interact with Copilot using a natural language, such as English
+
+In this session, you will learn how to effectively use GitHub Copilot to increase the velocity of your software development. This session is perfect for developers, team leads, and engineering managers looking to accelerate development cycles and reduce technical debt.
 
 ## Presented at
 
