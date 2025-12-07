@@ -17,6 +17,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Create an AI Agent Without Writing Any Code](./presentations/Create-an-AI-Agent-Without-Writing-Code/)
 - [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
+- [Supercharge Your GitHub Copilot ExperienceSupercharge Your GitHub Copilot Experience](./presentations/GitHub-Copilot-Advanced/)
 - [Mastering Intelligent Search with Azure AI Search](./presentations/Azure%20AI%20Search)
 - [With Great Power Comes Great Responsibility: The Challenges of Responsible AI](./presentations/Responsible%20AI)
 - [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
