@@ -11,7 +11,11 @@ In this session, you will learn how to effectively use GitHub Copilot to increas
 | Date      | Event Name                                                    | Location    |
 | --------- | ------------------------------------------------------------- | ----------- |
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
-
+| Aug 7 2024  | Cleveland Azure User Group | Online |
+| Sep 26 2024 | Tulsa .NET User Group | Online |
+| Nov 21 2024 | INFORMS Regional Analytics Conference | Chicago, IL
+| Apr 19 2025 | SHPE’s spring conference | Northwestern University, Evanston, IL |
+| Jun 4 2025  | Pittsburgh .NET Uer Group | Online |
 
 [Slides](https://1drv.ms/p/c/7048ec40c0ac24c1/EYDqjxhknNtHvptRYhST7m0B271ecXnxJ_QK2W5T0k8HRw?e=Zd1nVR)
 
