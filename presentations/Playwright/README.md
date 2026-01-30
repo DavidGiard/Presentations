@@ -1,4 +1,4 @@
-# Automating User Interface Tests with Playwright
+# Click Less, Ship More: Practical UI Automation Testing with Playwright
 
 ## Abstract
 
