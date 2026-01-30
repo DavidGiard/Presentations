@@ -21,6 +21,7 @@ By the end of this presentation, you'll gain a comprehensive understanding of Ch
 | Mar 22 2024 | Michigan Technology Conference | Pontiac, MI    |
 | Apr 4 2024  | Roanoke Valley .NET User Group | Online         |
 | May 6 2024  | LambdaConf                     | Estes Park, CO |
+| Jan 27 2026  | Uniforum - Chicago            | Online |
 
 ## Feedback
 
