@@ -114,7 +114,7 @@ Azure Portal | Playwright Workspace | Test Runs (may take a minute or 2 to displ
 
 ### To create new project, repo, and configuration
 
-Code found at https://github.com/DavidGiard/PlaywrightDemo
+Code found at https://github.com/DavidGiard/Demos/PlaywrightDemo
 
 - GitHub Repository
     - Connected to local Git Repo
