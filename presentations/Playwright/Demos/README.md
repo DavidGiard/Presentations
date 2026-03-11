@@ -80,6 +80,40 @@ npx playwright test --config=playwright.service.config.ts --workers=20
 
 ## Integrate into CI/CD
 
+### Using existing GitHub Repository and Playwright Workspace
+
+Code found at https://github.com/DavidGiard/PlaywrightDemo
+Workspace at 
+
+```
+git init
+git remote add origin https://github.com/DavidGiard/PlaywrightDemo.git
+git pull origin main
+git checkout -b main origin/main
+npm install
+npx playwright install
+npx playwright test
+```
+
+Walk through YAML file
+- on = trigger (push to 'main')
+- permissions
+- jobs
+    - checkout code
+    - Login with Entra ID
+    - Pull secrets from GitHub secrets (not hard-coded)
+    - Run tests in Azure Playwright workspace (URL in secret)
+    - Generate reort
+
+Make Change to a file (e.g., change retention-days at the bottom of playwright.yml)
+Commit and Push changes to GitHub (Source Control tab of VS Code)
+
+Show action firing and tests running
+GitHub repo | "Actions" tab
+Azure Portal | Playwright Workspace | Test Runs (may take a minute or 2 to display)
+
+### To create new project, repo, and configuration
+
 Code found at https://github.com/DavidGiard/PlaywrightDemo
 
 - GitHub Repository
