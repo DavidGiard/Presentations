@@ -25,9 +25,9 @@ customers
 
 ---
 explain
-select FullName, LastOrderDate, city, YtdExpenses
+select FullName, LastOrderDate, city, YtdSales, YtdExpenses, YtdSales-YtdExpenses as YtdProfit
 from customers
-where city = 'Redmond'
+where YtdExpenses > 100000
 order by YtdSales asc
 
 // TIME-SERIES DATA
