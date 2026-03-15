@@ -16,6 +16,11 @@ In this session, you will learn how to effectively use GitHub Copilot to increas
 | Nov 21 2024 | INFORMS Regional Analytics Conference | Chicago, IL
 | Apr 19 2025 | SHPE’s spring conference | Northwestern University, Evanston, IL |
 | Jun 4 2025  | Pittsburgh .NET Uer Group | Online |
+| Sep 22 2025 | University of Illinois - Chicago Women in Tech | Chicago, IL |
+| Sep 24 2025 | VS Code Dev Day | Chicago, IL |
+| Sep 30 2025 | Tessl AI Road Show | Chicago, IL |
+| Nov 5 2025| Blacks at Microsoft, Atlanta Chapter | Online |
+| Nov 12 2025 | Illinois Instittue of Technology | Chicago, IL |
 
 [Slides](https://1drv.ms/p/c/7048ec40c0ac24c1/EYDqjxhknNtHvptRYhST7m0B271ecXnxJ_QK2W5T0k8HRw?e=Zd1nVR)
 

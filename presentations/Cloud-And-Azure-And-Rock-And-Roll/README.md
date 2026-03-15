@@ -40,3 +40,5 @@ Azure is Microsoft’s platform for cloud computing. In this presentation, you w
 | Mar 7 2018   | University of Washington                      | Seattle, WA         |
 | Mar 22 2018  | Michigan State University                     | East Lansing, MI    |
 | Jan 29 2023  | SpartaHack                                    | Online              |
+| Mar 19 2025  | Michigan State University                     | East Lansing, MI    |
+| Apr 22 2025  | DACRA                                         | Glenn Ellyn, IL     |

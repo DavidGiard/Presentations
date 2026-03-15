@@ -16,3 +16,9 @@ By the end of this session, you’ll know how to:
 ## Slides
 
 [Slides](https://tinyurl.com/dgPlaywrightSlides)
+
+## Presented at
+
+| Date      | Event                                                         | Location    |
+| --------- | ----------------------------------------------------------    | ----------- |
+| Feb 25 | Pittsburgh .NET User Group | Online |

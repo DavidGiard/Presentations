@@ -84,3 +84,4 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Aug 14 2025 | KCDC                                            | Kansas City, MO        |
 | Aug 21 2025 | Fabric User Group                               | Online                 |
 | Dec 18 2025 | Chicago Python User Group                       | Chicago, IL            |
+| Mar 4 2026  | ACM Chicago                                     | Chicago, IL            |
