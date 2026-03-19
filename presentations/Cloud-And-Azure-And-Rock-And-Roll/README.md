@@ -1,7 +1,10 @@
 # Cloud and Azure and Rock and Roll
 
-# Cloud and Azure and Rock and Roll
-Azure is Microsoft’s platform for cloud computing. In this presentation, you will learn the advantages of cloud computing in general and Microsoft Azure in particular. I will demonstrate how to create an Application on the Azure platform using a variety of the Azure tools and how to quickly create a free Azure web app and an Azure Virtual Machine.
+## Abstract
+
+What is cloud computing and why is it important?
+
+In this presentation, I will define cloud computing and discuss the advantages that cloud computing provides from both a technical and a financial point of view. You will learn when those advantages are most significant and how to create services in the cloud. Most examples will be on Microsoft Azure, but the concepts apply to any cloud platform.
 
 ## Slides
 
