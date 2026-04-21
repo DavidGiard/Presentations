@@ -1,4 +1,4 @@
-# Build an AI Agent in Microsoft Foundry
+# Build and Manage an AI Agent with Microsoft Foundry
 
 Foundry is Microsoft’s integrated platform for building, customizing, deploying, and governing AI applications and agents at enterprise scale. Foundry acts as an AI app and agent factory, bringing models, tools, data grounding, observability, and governance together in one place.  
 
