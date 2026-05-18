@@ -13,6 +13,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Automating User Interface Tests with Playwright](./presentations/Playwright/)
 - [Effective Data Visualization](./presentations/Data-Visualization)
 - [You and Your Technical Community](./presentations/You-and-Your-Technical-Community)
+- [Owning Your Privilege and Using It for Good](./presentations/Privilege/)
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
 - [Build and Manage an AI Agent with Microsoft Foundry](./presentations/Microsoft-Foundry/)
 - [Create an AI Agent Without Writing Any Code](./presentations/Create-an-AI-Agent-Without-Writing-Code/)
