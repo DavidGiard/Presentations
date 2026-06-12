@@ -31,6 +31,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Cloud and Azure and Rock and Roll](./presentations/Cloud-And-Azure-And-Rock-And-Roll)
 - [Azure Identity Management and Microsoft Graph](./presentations/MS-Graph-and-Identity-Management)
 - [Own Your Own Career – Advice from a Veteran Software Engineer](./presentations/Own-Your-Own-Career)
+- [Using Artificial Intelligence to work with Legal Documents](./presentations/LegalAgent/)
 
 ## Draft Presentations
 
