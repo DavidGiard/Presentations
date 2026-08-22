@@ -19,4 +19,5 @@ In this session, I will show you when, where, and how to use ADX and how to use 
 | Jun 20 2022 | CSE Data Champions Roundtable                               | Online      |
 | Jul 12 2023 | Cleveland Azure User Group                                  | Online      |
 | Sep 18 2023 | Memphis Python User Group                                   | Online      |
-| Mar 14 2026 | Data Saturday                                               | Chicago, IL |
+| Mar 14 2026 | Data Saturday Chicago                                       | Palatine, IL |
+| Jun 9 2026  | the Chicago Data Professionals                              | Chicago, IL |

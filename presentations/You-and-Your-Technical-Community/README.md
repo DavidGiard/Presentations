@@ -20,6 +20,7 @@ And how to have fun doing it!
 | Jul 14 2022 | Nebraska.Code() (keynote)                  | Lincoln, NE      |
 | Mar 22 2024 | Michigan Technology Conference (keynote)   | Pontiac, MI      |
 | Aug 3 2024  | Beer City Code                             | Grand Rapids, MI |
+| Aug 28 2026 | GCPS Data + AI Community Call              | Online           |
 
 ## Feedback
 

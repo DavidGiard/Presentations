@@ -21,4 +21,6 @@ By the end of this session, you’ll know how to:
 
 | Date      | Event                                                         | Location    |
 | --------- | ----------------------------------------------------------    | ----------- |
-| Feb 25 | Pittsburgh .NET User Group | Online |
+| Feb 25 2026 | Pittsburgh .NET User Group | Online |
+| May 1 2026 | Stir Trek | Columbus, OH |
+| Aug 15 2026 | Beer City Code | Grand Rapids, MI |
