@@ -32,7 +32,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Azure Identity Management and Microsoft Graph](./presentations/MS-Graph-and-Identity-Management)
 - [Own Your Own Career – Advice from a Veteran Software Engineer](./presentations/Own-Your-Own-Career)
 - [Using Artificial Intelligence to work with Legal Documents](./presentations/LegalAgent/)
-- [Dinosaurs: Giants That Ruled the Earth] (./presentations/Dinosaurs/)
+- [Dinosaurs: Giants That Ruled the Earth](./presentations/Dinosaurs/)
 
 ## Draft Presentations
 

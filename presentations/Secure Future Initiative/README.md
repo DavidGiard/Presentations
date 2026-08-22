@@ -27,5 +27,5 @@ This session promises to equip attendees with actionable strategies and innovati
 | Feb 28 2024 | Michigan Technology Conference | Pontiac, MI |
 | Aug 14 2025 | KCDC | Kansas City, MO |
 | Oct 9 2025 | DevIntersection | Orlando, FL |
-| Aug 15 2026 | Michigan Technology Conference | Rochester, MI |
+| Aug 15 2026 | Beer City Code | Rochester, MI |
 | Oct 29 2026 | Michigan Technology Conference | Rochester, MI |
