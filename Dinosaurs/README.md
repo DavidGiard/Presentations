@@ -1,0 +1,3 @@
+# Dinosaurs: Giants That Ruled The Earth
+
+Travel millions of years into the past and discover the amazing world of dinosaurs. In this session, young explorers will meet famous dinosaurs such as Tyrannosaurus rex, Triceratops, Stegosaurus, and Velociraptor while learning what made an animal a dinosaur. We will investigate fossils, footprints, eggs, feathers, and other clues that help scientists understand how dinosaurs lived. Participants will also explore the dinosaur family tree, discover why birds are connected to dinosaurs, and examine the evidence surrounding why giant dinosaurs are no longer alive today.
