@@ -1,4 +1,7 @@
-# Diving Deep into Data with Azure Data Explorer and Kusto Query Language: Analyzing massive data sets with Azure Data Explorer and Kusto Query Language
+# Diving Deep into Data with Azure Data Explorer and Kusto Query Language
+
+## Subtitle
+Analyzing massive data sets with Azure Data Explorer and Kusto Query Language
 
 ## Abstract
 

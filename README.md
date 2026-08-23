@@ -19,7 +19,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Create an AI Agent Without Writing Any Code](./presentations/Create-an-AI-Agent-Without-Writing-Code/)
 - [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
-- [Supercharge Your GitHub Copilot ExperienceSupercharge Your GitHub Copilot Experience](./presentations/GitHub-Copilot-Advanced/)
+- [Supercharge Your GitHub Copilot Experience](./presentations/GitHub-Copilot-Advanced/)
 - [Mastering Intelligent Search with Azure AI Search](./presentations/Azure%20AI%20Search)
 - [With Great Power Comes Great Responsibility: The Challenges of Responsible AI](./presentations/Responsible%20AI)
 - [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
@@ -52,3 +52,7 @@ I no longer deliver these. Contact me if you are interested. I may update them.
 David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over three decades.  Currently, David helps people design and build solutions in his role as a Partner Solution Architect at Microsoft. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV shows [Technology and Friends](http://technologyandfriends.com) and [GCast](https://aka.ms/gcast).  He is the co-author of the Wrox book [Real World .NET, C#, and Silverlight](https://www.amazon.com/Real-World-NET-Silverlight-Indispensible/dp/1118021967/). You can read his latest thoughts at [DavidGiard.com](https://davidgiard.com).  His hobbies include video, photography, sports, and embarrassing his sons.
 
 ![David Giard](./images/David-2024.JPG)
+
+## Full List of Presentations Delivered
+
+[David's Speaking History](./presentations/PresentationList.md)
