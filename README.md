@@ -55,4 +55,4 @@ David Giard is a former accountant and a former biochemist, who has been develop
 
 ## Full List of Presentations Delivered
 
-[David's Speaking History](./presentations/PresentationList.md)
+[David's Speaking History](./presentations/DavidGiardPresentations.md)
