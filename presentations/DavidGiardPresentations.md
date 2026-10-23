@@ -2,9 +2,10 @@
 
 Combined **Presented at** tables, sorted from latest to earliest.
 
-| Dae | Presentation | Event | Location |
+| Date | Presentation | Event | Location |
 |---|---|---|---|
 | Oct 29 2026 | Microsoft’s Approach to Comprehensive Security | Michigan Technology Conference | Rochester, MI |
+| Oct 23 2027 | Effective Data Visualization | Data + AI Community                             | Online                 |
 | Aug 28 2026 | You and Your Technical Community | GCPS Data + AI Community Call | Online |
 | Aug 15 2026 | Automating User Interface Tests with Playwright | Beer City Code | Grand Rapids, MI |
 | Aug 15 2026 | Microsoft’s Approach to Comprehensive Security | Beer City Code | Rochester, MI |

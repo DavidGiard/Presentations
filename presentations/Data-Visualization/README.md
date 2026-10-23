@@ -85,3 +85,4 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Aug 21 2025 | Fabric User Group                               | Online                 |
 | Dec 18 2025 | Chicago Python User Group                       | Chicago, IL            |
 | Mar 4 2026  | ACM Chicago                                     | Chicago, IL            |
+| Oct 23 2027 | Data + AI Community                             | Online                 |
